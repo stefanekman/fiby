@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------------------------+
-# This script generates RT90 coordinates in a randomly placed grid with a specified grid distance   |
+# This script generates SWEREF99 coordinates in a randomly placed grid with a specified grid distance   |
 #                                                                                                   |
 # Please, set the parameters below                                                                  |
 #---------------------------------------------------------------------------------------------------+
