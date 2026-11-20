@@ -6,4 +6,4 @@ Fiby_polygon_vertices*: vertices describing the shape of the reserve, original a
 
 Plot coordinates.xlsx: coordinates of inventoried plots (i.e.,  output from fiby.R)
 
-Plot tree composition. xlsx: registered composition of trees in each plot (in the end not used for anything in the study)
+Plot tree composition.xlsx: registered composition of trees in each plot (in the end not used for anything in the study)
